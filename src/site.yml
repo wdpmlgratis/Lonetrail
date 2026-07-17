@@ -1,17 +1,17 @@
 site:
   title: "Lonetrail"
   subtitle: "Ad Astra Per Aspera"
-  url: "https://lonetrail.vercel.app"
+  url: "https://lonetrail.pages.dev"
   lang: "en"
-  author: "Chongxi"
-  email: "qwq@chongxi.us"
+  author: "WDP ML GRATIS"
+  email: "wdpmlgratis@gmail.com"
   favicon: "/images/favicon.webp"
   banner: ""
   og_image: "/images/og.webp"
 
 profile:
   avatar: "/images/chongxi-avatar.webp"
-  name: "Chongxi"
+  name: "WDP ML GRATIS"
   bio: "Ad Astra Per Aspera"
   links:
     - name: "GitHub"
@@ -30,9 +30,9 @@ nav:
 
 features:
   breadcrumb: true
-  comments: true
-  search: false
-  donate: false
+  comments: false
+  search: true
+  donate: true
   rss_feed: true
   sitemap: true
   related_posts: true
@@ -42,7 +42,7 @@ features:
 seo:
   enable_json_ld: false
   breadcrumb: true
-  keywords: "astro, theme, blog, lonetrail"
+  keywords: "astro, theme, blog, lonetrail, wdpmlgratis"
   same_as: []
 
 services:
